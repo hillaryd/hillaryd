@@ -5,7 +5,7 @@
 
 I'm a Cloud Solutions Architect and Frappe, ERPNext Specialist who delivers enterprise-grade business systems that scale. I transform complex business processes into streamlined digital operations, combining deep ERP expertise with modern cloud architecture. I'm passionate about building automated, future-proof solutions that drive measurable business growth.  
 
-## 🔧 Core Skills:
+## My Core Skills:
 - 📦 ERPNext Mastery
   - Custom Module Development & Integration
   - Business Process Optimization
