@@ -3,19 +3,35 @@
 # Frappe & ERPNext Developer | SRE | Cloud Architect | DevOps Engineer 🚀 
 
 
-With extensive expertise in **ERPNext** and **Frappe**, I specialize in delivering tailor-made ERP solutions that drive business efficiency and productivity. Whether it's custom development, deployment, or system optimization, I thrive on solving complex business challenges through innovative tech solutions.  
+I'm a Cloud Solutions Architect and Frappe, ERPNext Specialist who delivers enterprise-grade business systems that scale. I transform complex business processes into streamlined digital operations, combining deep ERP expertise with modern cloud architecture. I'm passionate about building automated, future-proof solutions that drive measurable business growth.  
 
-## 🔧 Core Skills:  
-- 📦 ERP Consulting, Development & Customization  
-- 🛠️ DevOps & SRE: Scalable Infrastructure for ERPNext Deployments  
-- ☁️ Cloud Architecture (AWS, GCP, Hetzner, etc.)  
-- 🐍 Advanced Python Development  
-- ⚙️ CI/CD Pipelines, Automation, and Monitoring  
+## 🔧 Core Skills:
+- 📦 ERPNext Mastery
+  - Custom Module Development & Integration
+  - Business Process Optimization
+  - Data Migration & System Implementation
+  - Performance Tuning & Scaling
 
-## 💡 My Passion:  
-I love crafting seamless ERP solutions that align perfectly with business needs. Building scalable, secure, and future-proof systems with ERPNext is at the core of my work.  
+- 🛠️ DevOps & SRE Excellence
+  - High-Availability ERPNext Deployments
+  - Load Balancing & Auto-scaling
+  - Disaster Recovery Planning
+  - Security Hardening & Compliance
 
-## 🌍 About Me:  
-Based in Johannesburg with a passion for creating impactful digital experiences and simplifying processes for businesses worldwide.  
+- ☁️ Cloud Infrastructure
+  - Multi-Cloud Architecture (AWS, GCP)
+  - Container Orchestration with Kubernetes
+  - Infrastructure as Code (Terraform)
+  - Cost Optimization & Resource Management
 
-Let’s build something remarkable! 🚀  
+- 🐍 Technical Development
+  - Advanced Python & Frappe Framework
+  - Custom API Development
+  - REST & GraphQL Integration
+  - Performance Optimization
+
+- ⚙️ Automation & Operations
+  - GitLab CI/CD & GitHub Actions
+  - Monitoring (Prometheus, Grafana)
+  - Log Management & Analysis
+  - Automated Backup Solutions
