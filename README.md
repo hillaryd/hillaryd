@@ -36,3 +36,8 @@ I'm a Cloud Solutions Architect and Frappe, ERPNext Specialist who delivers ente
   - Monitoring (Prometheus, Grafana)
   - Log Management & Analysis
   - Automated Backup Solutions
+
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillaryd&show_icons=true&include_all_commits=true&hide_border=true" alt="hillaryd's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryd&langs_count=8&layout=compact&hide_border=true" alt="hillaryd's GitHub stats" /> |
+| ------------- | ------------- |
