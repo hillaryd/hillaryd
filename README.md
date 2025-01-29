@@ -1,8 +1,9 @@
 
-# 👋 Hi, I’m Hillary Dliwayo  
+## Hello there;   I'm Hillary Dliwayo 👋🏾
+# Frappe & ERPNext Developer | DevOps Engineer | Cloud Architect 
 
-🚀 **ERPNext & Frappe Specialist** | 💼 **ERP Consulting & Development**  
-🌐 **SRE | DevOps | Cloud Architect | Python Developer**  
+🚀 ** Specialist** | 💼 **ERP Consulting & Development**  
+🌐 **SRE | **  
 
 With extensive expertise in **ERPNext** and **Frappe**, I specialize in delivering tailor-made ERP solutions that drive business efficiency and productivity. Whether it's custom development, deployment, or system optimization, I thrive on solving complex business challenges through innovative tech solutions.  
 
