@@ -19,16 +19,17 @@ I'm a Cloud Solutions Architect and Frappe, ERPNext Specialist who delivers ente
   - Security Hardening & Compliance
 
 - ☁️ Cloud Infrastructure
-  - Multi-Cloud Architecture (AWS, GCP)
-  - Container Orchestration with Kubernetes
-  - Infrastructure as Code (Terraform)
+  - Multi-Cloud Architecture (AWS, GCP, Azure, Hetzner, Digital Ocean)
+  - Container Orchestration with Docker, Docker Swarm, Kubernetes
+  - Infrastructure as Code (Ansible, Terraform, OpenTofu)
   - Cost Optimization & Resource Management
 
 - 🐍 Technical Development
-  - Advanced Python & Frappe Framework
+  - Advanced Python & Frappe Framework Development
   - Custom API Development
   - REST & GraphQL Integration
-  - Performance Optimization
+  - Performance Optimization & Database Tuning
+  - ReactJs, Vuejs, Javascript, Html5, Css3
 
 - ⚙️ Automation & Operations
   - GitLab CI/CD & GitHub Actions
